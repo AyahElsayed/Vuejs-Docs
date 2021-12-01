@@ -1,0 +1,4 @@
+- The v-bind attribute you're seeing is called a directive.
+- Directives are prefixed with v- to indicate that they are special attributes provided by Vue
+    we're basically saying "keep this element's title attribute up-to-date with the message 
+    property on the current active instance."
