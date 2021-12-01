@@ -1,0 +1,5 @@
+- v-if
+    It's easy to toggle the presence of an element
+
+- v-for
+    can be used to display a list of items using the data from an array
